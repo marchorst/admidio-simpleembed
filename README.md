@@ -1,6 +1,11 @@
 # SimpleEmbed
 With this simple Admidio plugin you can add some custom pages with static content like HTML, MarkDown or plain text.
 
+## Use
+To open a site you can simple call the URL with the key you defined:
+
+https://**your.domain**/adm_plugins/**simpleembed**/index.php?key=**YOURKEY**
+
 ## Configuration
 You can either add your configuration to config.php or add it to your "adm_my_files/config.php". (I would recomment to add it to the adm_my_files)
 
